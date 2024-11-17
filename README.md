@@ -7,4 +7,5 @@ What problems exist in server software development? On the client or server side
 ### Solutions
 1. Retry -
 2. Deadlines - 
-3. Rate Limiting
+3. Rate Limiting (throttling) -
+4. Infinite Scroll - Clusterized data and implement render by clusters.
